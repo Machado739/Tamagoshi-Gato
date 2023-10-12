@@ -1,0 +1,11 @@
+C:\Users\alexi\Downloads\gato\gato\bin\Debug\gato.exe.config
+C:\Users\alexi\Downloads\gato\gato\bin\Debug\gato.exe
+C:\Users\alexi\Downloads\gato\gato\bin\Debug\gato.pdb
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.Form1.resources
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.csproj.GenerateResource.cache
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.exe
+C:\Users\alexi\Downloads\gato\gato\obj\Debug\gato.pdb
